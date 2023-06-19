@@ -22,6 +22,7 @@ I just graduated from the Masters of Computational Social Sciences program at Un
 **Contact info:**
 
 email: jiaojieyuzoey@gmail.com
+
 Linkedin: https://www.linkedin.com/in/jieyu-jiao-7b5b9714b/
 
 
