@@ -18,6 +18,7 @@ I graduated from the Masters of Computational Social Sciences program at Univers
 2. Autodesk - Analyze customer feedback data and provide recommendation with data-driven solutions using Power BI and Qualtrics.
 3. Hanyi Fonts, Shanghai Etrump Co., Ltd. - product analytics. increase conversion rate and retention rates using A/B Testing and predictive analytis.
 4. Fostering Court Improvement, Barton Child Law and Policy Center at Emory Law - Data manipulation and feature engineering with raw datasets; feature selection using Gradient Boosting; statistical modeling to find correlations between the type of justics system and the likelihood of receiving certain type of sentencing using Logistic Regression; propensity score matching.
+5. Amazon reviews fake detection - using classification models to detect if a review is fake or genuine and deploy the pipeline into AWS. 
 
 **Contact info:**
 
