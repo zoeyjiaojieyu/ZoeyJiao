@@ -2,7 +2,7 @@
 
 **About me:**
 
-I just graduated from the Masters of Computational Social Sciences program at University of Chicago. I'm actively seeking for data analytics related fulltime job. I'm interested in data analyst, business analyst and product analyst fields. 
+I graduated from the Masters of Computational Social Sciences program at University of Chicago. I'm actively seeking for data analytics related fulltime job. I'm interested in data analyst, business analyst and product analyst fields. 
 
 **Skiils:**
 
